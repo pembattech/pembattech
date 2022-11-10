@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.pembatamang.com.np"><img src="gifs/nothing.gif" width="4%"></a>
+### Hi there <a href="https://www.pembatamang.com.np"><img src="gifs/nothing.gif" width="13%"></a>
 
 ```python
 
@@ -31,7 +31,7 @@ class Stack(metaclass=Meta):
 ### ☎️ With Me
 
 [<img alt="pemba.portfolio" width="80px" src="gifs/internet.gif" />](https://www.pembatamang.com.np)
-[<img alt="Pemba Tamang | LinkedIn" width="107px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/)
+[<img alt="Pemba Tamang | LinkedIn" width="107px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/pemba-tamang)
 [<img alt="Pemba T. Tech | Twitter" width="80px" src="gifs/twitter1.gif" />](https://www.twitter.com/pembattech)
 [<img alt="titungpemba | Instagram" width="107px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />](https://www.instagram.com/titungpemba)
 [<img alt="Pemba T. Tech | YouTube" width="92px" src="gifs/youtube.gif" />](https://www.youtube.com/c/pembattech)
@@ -53,6 +53,7 @@ class Stack(metaclass=Meta):
 <br />
 
 #
+
 #### Fun fact: I once solved the world's oldest question with a single line of Python
 
 ```python
