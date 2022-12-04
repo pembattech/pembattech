@@ -62,13 +62,17 @@ print(sorted(['🥚', '🐣', '🐥', '🐔']))
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
-
 #
-
-### 📊 Stats
+<details>
+<summary>
+<font size= "3">📊 Stats </font>
+</summary>
 
 ![Pemba's GitHub stats](https://github-readme-stats.vercel.app/api?username=pembattech&show_icons=true&theme=slateorange)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pembattech&theme=slateorange&border_radius=4.5)
+
+</details>
+
 
 #
