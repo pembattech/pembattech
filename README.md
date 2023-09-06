@@ -17,7 +17,7 @@ class Bio(metaclass=Meta):
     designation : str = "Django Developer"
     company     : str = "Pemba T. Tech"
     base        : str = "Kathmandu, Nepal"
-    website     : str = "pembatamang.com.np"
+    website     : str = "https://www.pembatamang.com.np"
 
 class Stack(metaclass=Meta):
     languages   : Tuple[str, ...] = ("Python", "HTML", "CSS", "JavaScript")
