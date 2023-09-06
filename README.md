@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.pembatamang.com.np"><img src="gifs/nothing.gif" width="13%"></a>
+### Hi there
 
 ```python
 
@@ -17,10 +17,11 @@ class Bio(metaclass=Meta):
     designation : str = "Django Developer"
     company     : str = "Pemba T. Tech"
     base        : str = "Kathmandu, Nepal"
+    website     : str = "pembatamang.com.np"
 
 class Stack(metaclass=Meta):
     languages   : Tuple[str, ...] = ("Python", "HTML", "CSS", "JavaScript")
-    databases   : Tuple[str, ...] = ("MySQL", "PostgreSQL", "MongoDB")
+    databases   : Tuple[str, ...] = ("MySQL", "PostgreSQL")
     misc        : Tuple[str, ...] = ("Docker", "Celery")
     ongoing     : Tuple[str, ...] = ("Python", "Django")
 
